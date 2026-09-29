@@ -19,3 +19,7 @@ GitHub Pages:
 Settings → Pages → Deploy from a branch → main → / (root)
 
 نوٹ: Contact/Newsletter فی الحال frontend demo ہیں۔ حقیقی email delivery کے لیے Formspree، Web3Forms یا backend service connect کریں۔
+
+
+## v5
+ہوم اور بلاگ میں مضامین HTML میں بھی موجود ہیں، اس لیے JavaScript نہ چلے تب بھی مضامین دکھائی دیں گے۔
