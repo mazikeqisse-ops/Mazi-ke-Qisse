@@ -75,3 +75,17 @@ footer{border-top:1px solid var(--line);padding:34px 0;margin-top:40px}
 @media(max-width:850px){nav{display:none}.menu-btn{display:block}.hero-grid{grid-template-columns:1fr}.grid{grid-template-columns:repeat(2,1fr)}.newsletter{flex-direction:column;align-items:stretch}.footer-grid{grid-template-columns:1fr 1fr}}
 @media(max-width:560px){.nav{min-height:66px}.grid{grid-template-columns:1fr}.hero{padding-top:45px}.hero-card{min-height:240px}.newsletter form{flex-direction:column}.footer-grid{grid-template-columns:1fr}.section{padding:32px 0}.article .article-thumb{height:260px}.reading-bar{top:66px}}
 .mobile-open nav{display:flex;position:absolute;top:66px;left:0;right:0;background:var(--surface);padding:16px;flex-direction:column;border-bottom:1px solid var(--line)}
+
+/* v4 mobile guard */
+@media (max-width: 900px){
+  .container{width:min(94%,1120px)}
+  nav{display:none}
+  .menu-btn{display:block}
+  .hero-grid{grid-template-columns:1fr}
+  .grid{grid-template-columns:repeat(2,1fr)}
+}
+@media (max-width: 600px){
+  .grid{grid-template-columns:1fr}
+  .brand{font-size:1.08rem}
+  .hero h1{font-size:clamp(2rem,10vw,3rem)}
+}
