@@ -9,11 +9,11 @@
   <circle cx="980" cy="120" r="190" fill="#ead7c2"/>
   <circle cx="130" cy="600" r="220" fill="#f0e2d2"/>
   <rect x="80" y="80" width="1040" height="540" rx="42" fill="url(#bg)"/>
-  <text x="600" y="325" text-anchor="middle" font-size="145">🏛️</text>
+  <text x="600" y="325" text-anchor="middle" font-size="145">💡</text>
   <text x="600" y="465" text-anchor="middle"
         fill="#ffffff" font-family="Noto Sans Arabic, Arial, sans-serif"
-        font-size="58" font-weight="700">تاریخ</text>
+        font-size="58" font-weight="700">دلچسپ حقائق</text>
   <text x="600" y="530" text-anchor="middle"
         fill="#f9eee4" font-family="Noto Sans Arabic, Arial, sans-serif"
-        font-size="28">ماضی کے واقعات اور پرانی دنیا</text>
+        font-size="28">ماضی سے جڑی حیرت انگیز باتیں</text>
 </svg>
