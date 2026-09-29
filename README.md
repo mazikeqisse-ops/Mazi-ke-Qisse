@@ -1,15 +1,21 @@
-# ماضی کے قصے — Updated Static Blog
+# ماضی کے قصے — Professional v3
 
-- Responsive mobile-first design
-- 20 Urdu articles
+خصوصیات:
+- 22 اردو مضامین
+- موبائل فرسٹ responsive design
+- مقامی SVG artwork (external image hosting کی ضرورت نہیں)
 - Categories filter
-- Search
-- Dynamic article pages
+- بہتر Search
 - Dark/Light mode
-- About, Contact and legal pages
-- sitemap.xml and robots.txt
-- Basic SEO metadata and WebSite schema
+- ہر مضمون کا الگ صفحہ
+- WhatsApp/Facebook share + Copy Link
+- Reading progress bar
+- Related articles
+- SEO metadata + WebSite schema
+- sitemap.xml + robots.txt
+- About, Contact اور legal pages
 
-GitHub Pages: Settings → Pages → Deploy from a branch → main → / (root).
+GitHub Pages:
+Settings → Pages → Deploy from a branch → main → / (root)
 
-Contact/newsletter forms are demo forms until a service such as Formspree/Web3Forms or a backend is connected.
+نوٹ: Contact/Newsletter فی الحال frontend demo ہیں۔ حقیقی email delivery کے لیے Formspree، Web3Forms یا backend service connect کریں۔
